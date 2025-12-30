@@ -90,3 +90,6 @@ steps:
         echo "*******************************************************************************"
       fi
 # [END tf-apply]      
+
+# CONFIGURAÇÃO DOS LOGS ADICIONADA AQUI:
+logsBucket: 'gs://cloud-build-test-482812-tfstate'
