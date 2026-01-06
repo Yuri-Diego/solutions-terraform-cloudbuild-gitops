@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# comentario so pra testar filé. 
+# testando filé. 
 
 locals {
   network = "${element(split("-", var.subnet), 0)}"
